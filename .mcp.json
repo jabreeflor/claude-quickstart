@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "sequential-thinker": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@hrishioa/sequential-thinker-mcp"
+      ],
+      "env": {}
+    },
+    "context7": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@context7/mcp-server"
+      ],
+      "env": {}
+    },
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ],
+      "env": {}
+    }
+  }
+}
