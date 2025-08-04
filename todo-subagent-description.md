@@ -1,0 +1,1 @@
+Transforms high-level plans into detailed, trackable TODO files. Auto-triggers when Claude generates plans. Creates `.claude/todos/` files with step-by-step breakdowns, testing strategies, status tracking (⏳🔄✅❌), and dependency mapping. MUST check for existing duties and update todo files throughout task execution. Ensures comprehensive roadmaps for execution.
