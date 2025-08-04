@@ -249,14 +249,14 @@ Four key interaction patterns define how agents communicate and collaborate[^5]:
 
 ## References
 
-[^1]: Ng, Andrew. "Agentic Design Patterns." DeepLearning.AI, 2024. https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/
+- Ng, Andrew. "Agentic Design Patterns." DeepLearning.AI, 2024. https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/
 
-[^2]: Anthropic. "How we built our multi-agent research system." Anthropic Engineering Blog, 2024. https://www.anthropic.com/engineering/built-multi-agent-research-system
+- Anthropic. "How we built our multi-agent research system." Anthropic Engineering Blog, 2024. https://www.anthropic.com/engineering/built-multi-agent-research-system
 
-[^3]: ClaudeLog. "Agent Engineering Guide." ClaudeLog Documentation, 2025. https://claudelog.com/agents/agent-engineering
+- ClaudeLog. "Agent Engineering Guide." ClaudeLog Documentation, 2025. https://claudelog.com/agents/agent-engineering
 
-[^4]: Arsanjani, Ali. "Patterns for Building Production Grade Agentic AI using Multi-Agent Systems." Medium, 2024. https://dr-arsanjani.medium.com/patterns-for-agentic-ai-in-multi-agent-systems-patterns-1-4-f4c952bfc123
+- Arsanjani, Ali. "Patterns for Building Production Grade Agentic AI using Multi-Agent Systems." Medium, 2024. https://dr-arsanjani.medium.com/patterns-for-agentic-ai-in-multi-agent-systems-patterns-1-4-f4c952bfc123
 
-[^5]: Confluent. "Four Design Patterns for Event-Driven, Multi-Agent Systems." Confluent Blog, 2024. https://www.confluent.io/blog/event-driven-multi-agent-systems/
+- Confluent. "Four Design Patterns for Event-Driven, Multi-Agent Systems." Confluent Blog, 2024. https://www.confluent.io/blog/event-driven-multi-agent-systems/
 
 *Agent engineering represents the frontier of AI system design, enabling sophisticated autonomous workflows through coordinated intelligent agents. Combined with strong foundations in prompt engineering and context engineering, it opens new possibilities for AI-assisted problem solving at scale.*
