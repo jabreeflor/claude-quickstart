@@ -261,34 +261,34 @@ Systematic approach to context engineering through structured requirements:
 
 ### Academic Sources
 
-[^1]: Zhang, Wei, et al. "A Survey of Context Engineering for Large Language Models." *arXiv preprint arXiv:2507.13334*, July 2025. https://arxiv.org/abs/2507.13334
+- Zhang, Wei, et al. "A Survey of Context Engineering for Large Language Models." *arXiv preprint arXiv:2507.13334*, July 2025. https://arxiv.org/abs/2507.13334
 
-[^2]: Dong, Qingxiu, et al. "A Survey on In-context Learning." *arXiv preprint arXiv:2301.00234*, January 2023. https://arxiv.org/abs/2301.00234
+- Dong, Qingxiu, et al. "A Survey on In-context Learning." *arXiv preprint arXiv:2301.00234*, January 2023. https://arxiv.org/abs/2301.00234
 
 ### Official Documentation
 
-[^3]: Anthropic. "Claude Code Best Practices." Anthropic Engineering Blog, April 2025. https://www.anthropic.com/engineering/claude-code-best-practices
+- Anthropic. "Claude Code Best Practices." Anthropic Engineering Blog, April 2025. https://www.anthropic.com/engineering/claude-code-best-practices
 
-[^4]: Anthropic. "Manage Claude's Memory." Claude Code Documentation, 2025. https://docs.anthropic.com/en/docs/claude-code/memory
+- Anthropic. "Manage Claude's Memory." Claude Code Documentation, 2025. https://docs.anthropic.com/en/docs/claude-code/memory
 
-[^5]: Anthropic. "Claude Code Overview." Official Documentation, 2025. https://docs.anthropic.com/en/docs/claude-code/overview
+- Anthropic. "Claude Code Overview." Official Documentation, 2025. https://docs.anthropic.com/en/docs/claude-code/overview
 
 ### Industry Perspectives
 
-[^6]: Karpathy, Andrej. "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." X (Twitter), January 2025. https://x.com/karpathy/status/1937902205765607626
+- Karpathy, Andrej. "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." X (Twitter), January 2025. https://x.com/karpathy/status/1937902205765607626
 
-[^7]: Kimai, David. "Context Engineering: A First-Principles Handbook." GitHub Repository, 2025. https://github.com/davidkimai/Context-Engineering
+- Kimai, David. "Context Engineering: A First-Principles Handbook." GitHub Repository, 2025. https://github.com/davidkimai/Context-Engineering
 
-[^8]: Vijay Kumar, A B. "Practical Context Engineering for Vibe Coding with Claude Code." *Medium*, July 2025. https://abvijaykumar.medium.com/practical-context-engineering-for-vibe-coding-with-claude-code-6aac4ee77f81
+- Vijay Kumar, A B. "Practical Context Engineering for Vibe Coding with Claude Code." *Medium*, July 2025. https://abvijaykumar.medium.com/practical-context-engineering-for-vibe-coding-with-claude-code-6aac4ee77f81
 
-[^9]: Kadous, Waleed. "Give Claude Code Context: One Principle, Many Implications." *Medium*, March 2025. https://waleedk.medium.com/give-claude-code-context-one-principle-many-implications-b7372d0a4268
+- Kadous, Waleed. "Give Claude Code Context: One Principle, Many Implications." *Medium*, March 2025. https://waleedk.medium.com/give-claude-code-context-one-principle-many-implications-b7372d0a4268
 
-[^10]: Masood, Adnan. "Context Engineering: Elevating AI Strategy from Prompt Crafting to Enterprise Competence." *Medium*, June 2025. https://medium.com/@adnanmasood/context-engineering-elevating-ai-strategy-from-prompt-crafting-to-enterprise-competence-b036d3f7f76f
+- Masood, Adnan. "Context Engineering: Elevating AI Strategy from Prompt Crafting to Enterprise Competence." *Medium*, June 2025. https://medium.com/@adnanmasood/context-engineering-elevating-ai-strategy-from-prompt-crafting-to-enterprise-competence-b036d3f7f76f
 
-[^11]: LangChain. "Context Engineering for Agents." LangChain Blog, 2025. https://blog.langchain.com/context-engineering-for-agents/
+- LangChain. "Context Engineering for Agents." LangChain Blog, 2025. https://blog.langchain.com/context-engineering-for-agents/
 
 ### Community Resources
 
-[^12]: Meirtz. "Awesome Context Engineering: Comprehensive survey on Context Engineering." GitHub Repository, 2025. https://github.com/Meirtz/Awesome-Context-Engineering
+- Meirtz. "Awesome Context Engineering: Comprehensive survey on Context Engineering." GitHub Repository, 2025. https://github.com/Meirtz/Awesome-Context-Engineering
 
 *Context engineering provides the systematic foundation for managing AI interactions at scale. Combined with prompt engineering fundamentals and agent engineering patterns, it enables sophisticated AI-assisted workflows that maintain consistency and quality across complex projects.*
